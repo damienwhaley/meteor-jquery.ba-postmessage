@@ -1,0 +1,8 @@
+{
+  "name": "jquery-ba.postmessage",
+  "description": "jQuery postMessage enables simple and easy window.postMessage communication.",
+  "homepage": "https://github.com/damienwhaley/meteor-jquery.ba-postmessage",
+  "author": "Damien Whaley",
+  "version": "0.1.0",
+  "git": "https://github.com/damienwhaley/meteor-jquery.ba-postmessage"
+}
